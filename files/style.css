@@ -4,6 +4,7 @@ html {
     -moz-scroll-behavior: smooth;
     -ms-scroll-behavior: smooth;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
